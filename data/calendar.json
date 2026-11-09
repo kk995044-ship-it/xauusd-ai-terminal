@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T18:52:51.842Z",
+  "generatedAt": "2026-11-09T20:51:37.936Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -171,8 +171,8 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
-      "CalendarId": "USD-2026-11-12T09:00:00-05:00-FOMC Member Hammack Speaks",
-      "Date": "2026-11-12T09:00:00-05:00",
+      "CalendarId": "USD-2026-11-12T08:30:00-05:00-FOMC Member Hammack Speaks",
+      "Date": "2026-11-12T08:30:00-05:00",
       "Country": "USD",
       "Event": "FOMC Member Hammack Speaks",
       "Category": "Economic Calendar",
@@ -195,8 +195,8 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
-      "CalendarId": "USD-2026-11-12T11:30:00-05:00-FOMC Member Goolsbee Speaks",
-      "Date": "2026-11-12T11:30:00-05:00",
+      "CalendarId": "USD-2026-11-12T11:15:00-05:00-FOMC Member Goolsbee Speaks",
+      "Date": "2026-11-12T11:15:00-05:00",
       "Country": "USD",
       "Event": "FOMC Member Goolsbee Speaks",
       "Category": "Economic Calendar",
