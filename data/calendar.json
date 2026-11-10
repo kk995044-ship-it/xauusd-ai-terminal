@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:42:45.750Z",
+  "generatedAt": "2026-11-10T00:56:40.719Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -237,7 +237,7 @@
       "Event": "Federal Budget Balance",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "",
+      "Forecast": "-286.3B",
       "Previous": "-26.9B",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
