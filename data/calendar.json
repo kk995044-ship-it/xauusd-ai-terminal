@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T18:52:29.296Z",
+  "generatedAt": "2026-11-16T20:48:55.899Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -55,6 +55,30 @@
       "Date": "2026-11-16T14:15:00-05:00",
       "Country": "USD",
       "Event": "FOMC Member Hammack Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-16T18:10:00-05:00-FOMC Member Barkin Speaks",
+      "Date": "2026-11-16T18:10:00-05:00",
+      "Country": "USD",
+      "Event": "FOMC Member Barkin Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-16T18:30:00-05:00-FOMC Member Goolsbee Speaks",
+      "Date": "2026-11-16T18:30:00-05:00",
+      "Country": "USD",
+      "Event": "FOMC Member Goolsbee Speaks",
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
@@ -223,6 +247,18 @@
       "Date": "2026-11-19T08:50:00-05:00",
       "Country": "USD",
       "Event": "FOMC Member Hammack Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-19T09:25:00-05:00-FOMC Member Jefferson Speaks",
+      "Date": "2026-11-19T09:25:00-05:00",
+      "Country": "USD",
+      "Event": "FOMC Member Jefferson Speaks",
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
